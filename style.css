@@ -495,7 +495,7 @@ body{
 }
 
 .footer{
-    background-color: #000;
+    background-color: #454242;
     padding: 50px 0;
     color: #fff;
     text-align: center;
@@ -614,6 +614,10 @@ button{
 @media (max-width:1185px){
     .burger-menu{
         display: block;
+    }
+
+    .nav{
+           margin-left: 0px; 
     }
 
     .nav,
